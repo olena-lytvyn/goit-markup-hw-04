@@ -426,7 +426,6 @@ color: #f4f4fd;
 .page-footer .container {
     display: flex;
     align-items: baseline;
-    gap: 120px;
 }
 
 .logo-footer-part {
